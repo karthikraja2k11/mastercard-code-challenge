@@ -1,0 +1,8 @@
+Boston,NewYork
+Philadelphia,Newark
+Newark,Boston
+Trenton,Albany
+Philadelphia,Chicago
+Philadelphia,Dallas
+Dallas,Schaumburg
+Schaumburg,Chicago
