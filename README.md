@@ -22,6 +22,15 @@ After you run the microservice,
    
    * Or use Web Browser, since they are GET URIs
  
+   * Test URLs,
+   
+     * http://localhost:8080/connected?destination=Boston&origin=Philadelphia
+     
+     * http://localhost:8080/connected?destination=Boston&origin=Newark
+     
+     * http://localhost:8080/connected?destination=Philadelphia&origin=Albany
  
+     * http://localhost:8080/connected?destination=Schaumburg&origin=Philadelphia
+     
  Thanks !
  Karthikeyan Rajamani.
